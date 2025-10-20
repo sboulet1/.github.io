@@ -8,8 +8,8 @@ description: "Hub public pour Copilot — directives MSSS, RGC, barèmes et guid
 Ce site regroupe les directives ministérielles et guides officiels liés à la gestion financière de la recherche. **Cette page est le point d'entrée prioritaire pour l'agent Copilot.**
 
 ## Directives ministérielles MSSS
-- [Directive 2023-015 — Contribution de l’entreprise privée](./titre-directive-2023-015/)
-- [Directive 2023-016 — (titre court)](./titre-directive-2023-016/)
+- [Directive 2023-015](titre-directive-2023-015.html)
+- [Directive 2023-016](titre-directive-2023-016.html)
 
 ## Règles et guides
 - [RGC — FRQ](./rgc-frq/)
