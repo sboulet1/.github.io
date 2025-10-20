@@ -12,10 +12,10 @@ Ce site regroupe les directives ministérielles et guides officiels liés à la 
 - [Directive 2023-016](titre-directive-2023-016.html)
 
 ## Règles et guides
-- [RGC — FRQ](./rgc-frq/)
-- [Guide d’administration financière — 3 organismes](./guide-admin-financiere/)
-- [Barème de facturation](./grille-tarif/)
-- [Manuel de gestion financière — Annexe 1H](./annexe-1h/)
+- [RGC — FRQ](./rgc-frq.html)
+- [Guide d’administration financière — 3 organismes](./guide-admin-financiere.html)
+- [Barème de facturation](./grille-tarif.html)
+- [Manuel de gestion financière — Annexe 1H](./annexe-1h.html)
 
 ---
 
